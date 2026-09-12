@@ -30,6 +30,22 @@ Submitting an access request does not immediately create an account and does not
 - encrypted completed-session history and progress; and
 - export of drafts and results.
 
+## See the writing workflow
+
+The interface keeps the current stage, AI readiness, remaining pilot sessions, and the progress route in a persistent header while you work.
+
+### Choose a current direction
+
+![Six current, web-grounded writing directions in Write2Live](docs/screenshots/topic-discovery.png)
+
+### Review a structured assessment
+
+![Write2Live writing score with strengths and areas for growth](docs/screenshots/writing-score.png)
+
+### Turn feedback into practice
+
+![Write2Live writing-coach suggestions, exercises, and next focus](docs/screenshots/writing-coach.png)
+
 ## Private-pilot status
 
 Write2Live is currently an invitation-only pilot in the v0.9 release series, targeting v1.0 for formal launch. Each approved invitation currently provides two completed sessions. Features and pilot terms may change before the formal release.
