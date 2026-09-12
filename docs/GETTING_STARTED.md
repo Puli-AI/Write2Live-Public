@@ -43,7 +43,20 @@ You do not need the original invitation code again. Check the junk or spam folde
 
 An unfinished draft stays in the current browser so it can be resumed on the same device. A completed session is stored encrypted and appears in your progress history. Only the first completion of a session uses one pilot credit.
 
-## 3. Understand the main terms
+## 3. Follow your status
+
+The pinned header keeps these signals available as you move through a long setup or results page:
+
+- the current workflow stage;
+- AI search and feedback readiness;
+- the number of pilot sessions remaining; and
+- **View progress**, which opens your completed-session history.
+
+![Write2Live writing score after a completed session](screenshots/writing-score.png)
+
+![Write2Live coaching suggestions after a completed session](screenshots/writing-coach.png)
+
+## 4. Understand the main terms
 
 - **Writing workspace:** the page where you choose a direction, set the timer, and write.
 - **Completed session:** a session you finish and save; this uses one of the two pilot credits.
