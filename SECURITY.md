@@ -4,4 +4,4 @@ Write2Live keeps its production application, provider credentials, deployment co
 
 Do not report vulnerabilities in a public issue. Use GitHub's private vulnerability reporting or Security Advisory feature for this repository so potentially sensitive details remain private.
 
-Please include the affected page or workflow, the observed behavior, reproduction steps, and the potential impact. Do not include real access codes, session cookies, API keys, or another user's writing.
+Please include the affected page or workflow, the observed behavior, reproduction steps, and the potential impact. Do not include real invitation codes, administrator access codes, email sign-in links, session cookies, API keys, participant email addresses, or another user's writing.

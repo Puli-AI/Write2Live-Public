@@ -2,18 +2,30 @@
 
 ## Current private pilot
 
-Write2Live keeps provider credentials on the server. They are never exposed in browser code. Unfinished drafts are stored in the current browser so they can be resumed on the same device.
+Write2Live keeps provider credentials on the server; they are never exposed in browser code. AI actions occur only when a writer explicitly requests them.
 
-Writing is sent to the server only when the user explicitly requests an AI action such as refinement, assessment, or coaching. The current v0.7 private pilot does not provide account-based writing history.
+## What is stored
 
-## Planned account beta
+For an access request, Write2Live stores the visitor's name, normalized email address, intended use, consent time, and review status.
 
-The v0.8 account beta is intended to store a verified email address, completed writing sessions, AI assessments, and scores so each user can review progress over time. Before this becomes active, Write2Live will provide:
+For a registered writer, Write2Live also stores account status, remaining pilot sessions, completed drafts, optional AI refinements, assessments, coaching output, scores, and writing metrics. Unfinished drafts remain in the current browser so they can be resumed on the same device.
 
-- clear consent before writing is stored;
-- a stated retention period;
-- user export and deletion controls;
-- restricted and audited administrative access; and
-- protection for stored writing content.
+## Why it is stored
 
-This document will be updated before account-based storage is enabled in production.
+Puli Consulting uses these records to review pilot requests, provide the two-session pilot, show writer progress, evaluate service quality, prevent invitation abuse, and support the service.
+
+## Protection and access
+
+Writing content and AI feedback are encrypted at rest. Invitation codes and email sign-in tokens are stored only as keyed digests. Administrators can review access requests, manage accounts, and view aggregate usage, but do not receive unrestricted access to writing content by default.
+
+## Retention
+
+Access requests, pilot accounts, and writing records are retained for 90 days after the pilot concludes, then deleted or anonymized. Operational backups follow the same access restrictions and are removed through the backup-retention cycle.
+
+## Writer choices
+
+- AI actions occur only when requested.
+- Do not submit confidential third-party information.
+- Contact the Puli Consulting pilot administrator during the pilot to request access to or deletion of stored records.
+
+The effective on-screen notice is available at [write2live.puli-consulting.com/privacy](https://write2live.puli-consulting.com/privacy).
