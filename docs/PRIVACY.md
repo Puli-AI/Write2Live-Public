@@ -1,6 +1,6 @@
 # Privacy
 
-## Current private pilot
+## Current controlled-access service
 
 Write2Live keeps provider credentials on the server; they are never exposed in browser code. AI actions occur only when a writer explicitly requests them.
 
@@ -12,7 +12,7 @@ For a registered writer, Write2Live also stores account status, remaining pilot 
 
 ## Why it is stored
 
-Puli Consulting uses these records to review pilot requests, provide the two-session pilot, show writer progress, evaluate service quality, prevent invitation abuse, and support the service.
+Puli Consulting uses these records to review pilot requests, provide controlled writing sessions, show writer progress, evaluate service quality, prevent invitation abuse, and support the service.
 
 ## Protection and access
 
@@ -26,6 +26,6 @@ Access requests, pilot accounts, and writing records are retained for 90 days af
 
 - AI actions occur only when requested.
 - Do not submit confidential third-party information.
-- Contact the Puli Consulting pilot administrator during the pilot to request access to or deletion of stored records.
+- Contact the Puli Consulting administrator to request access to or deletion of stored records.
 
 The effective on-screen notice is available at [write2live.puli-consulting.com/privacy](https://write2live.puli-consulting.com/privacy).
