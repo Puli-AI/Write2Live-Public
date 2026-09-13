@@ -17,7 +17,7 @@ The product loop is:
 | Release | Focus |
 | --- | --- |
 | v1.0 | Controlled access, secure writer accounts, focused sessions, optional AI feedback, progress, and administration. |
-| v1.1 | Self-service data export/deletion, retention automation, restore rehearsal, monitoring, accessibility, and administrator controls. |
+| v1.1 | Writer-owned completed-session review, self-service data export/deletion, retention automation, restore rehearsal, monitoring, accessibility, and administrator controls. |
 | v1.2 | Versioned rubrics, educator-marked benchmarks, score stability testing, drift checks, and clearer feedback interpretation. |
 | v1.3 | Small writing games for fluency, concision, register, evidence, cohesion, and endings. |
 | v1.4 | Guided learning paths using repeated practice and demonstrated needs. |
@@ -25,6 +25,12 @@ The product loop is:
 | v2.0 | An educator-reviewed HKDSE-aligned practice suite developed with Hong Kong Beacon. |
 
 The sequence may change when evidence or partner capacity changes. Dates will be set only when the work and validation inputs are known.
+
+## Writer-owned session review
+
+A future progress row should let the signed-in writer reopen one completed session and see the original input, refined text, criterion scores, strengths, areas for growth, suggestions, exercises, and next focus together.
+
+This view should be owner-only by default. Administrator or educator access to student writing requires a separate, explicit consent model, scoped roles, audit history, and retention rules; it must not be inferred from operational administrator access.
 
 ## HKDSE direction
 
