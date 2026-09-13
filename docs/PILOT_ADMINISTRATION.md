@@ -30,6 +30,15 @@ The full code appears only at creation time or in the recipient's email. **Copy 
 
 Stored invitation records show only the final six code characters. The full code cannot be recovered from the database.
 
+## More-session requests
+
+A registered writer who has used the included allowance may request two more pilot sessions. Review the request in **More-session requests**.
+
+- **Approve:** adds two sessions directly to the existing account and emails the writer.
+- **Decline:** closes the request without changing the allowance.
+
+Use the observed writing history, support capacity, and study needs to make the decision. Additional sessions remain a controlled pilot entitlement, not a purchase.
+
 ## Participation and progress
 
 The operations dashboard shows privacy-safe account and progress aggregates, including completed sessions, remaining credits, pace, and assessment-score change. **Export CSV** downloads those operational measures without writing content.
