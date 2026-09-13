@@ -36,7 +36,7 @@ The interface keeps the current stage, AI readiness, remaining pilot sessions, a
 
 ### Choose a current direction
 
-![Six current, web-grounded writing directions in Write2Live](docs/screenshots/topic-discovery-demo.png)
+![Six current, web-grounded writing directions in Write2Live](docs/screenshots/topic-discovery-cropped.png)
 
 ### Compare original and refined writing
 
