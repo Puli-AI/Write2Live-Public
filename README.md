@@ -71,6 +71,16 @@ This public repository contains user documentation, privacy information, screens
 - [Privacy](docs/PRIVACY.md)
 - [Security reporting](SECURITY.md)
 
+## Contact
+
+For writing-practice, education, research, or partnership enquiries:
+
+**Dr. M.K. Mak**  
+Managing Partner  
+Puli Consulting International Co., Ltd.  
+[m.k.mak@puli-consulting.com](mailto:m.k.mak@puli-consulting.com)  
+[www.puli-consulting.com](https://www.puli-consulting.com)
+
 ## License
 
 Public documentation in this repository is provided under the [MIT License](LICENSE).
