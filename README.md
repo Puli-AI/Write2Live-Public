@@ -38,15 +38,21 @@ The interface keeps the current stage, AI readiness, remaining pilot sessions, a
 
 ![Six current, web-grounded writing directions in Write2Live](docs/screenshots/topic-discovery.png)
 
+### Compare original and refined writing
+
+![An anonymized Write2Live comparison of original and AI-refined writing](docs/screenshots/refinement-demo.jpg)
+
 ### Review a structured assessment
 
-![Write2Live writing score with strengths and areas for growth](docs/screenshots/writing-score.png)
+![An anonymized Write2Live writing score with strengths and areas for growth](docs/screenshots/assessment-demo.jpg)
 
 ### Turn feedback into practice
 
 ![Write2Live writing-coach suggestions, exercises, and next focus](docs/screenshots/writing-coach.png)
 
-## Version 1.0 status
+## Version 1.0.1 status
+
+Write2Live 1.0.1 is the current controlled-access service. It makes a fresh blank session the normal next step after completion while keeping **Continue this writing** as an explicit choice. The administrator workspace also surfaces both pending request queues at the top.
 
 Write2Live 1.0 is a controlled-access service. Visitors can request an invitation, Puli Consulting reviews each request, and each approved invitation currently provides two completed writing sessions. Writers who complete that allowance may request two additional pilot sessions for administrator review.
 

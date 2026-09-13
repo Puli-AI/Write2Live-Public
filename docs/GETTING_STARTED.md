@@ -42,9 +42,10 @@ The address works once and expires after 15 minutes. You do not need the origina
 4. Choose Zen, Gentle, Moderate, or Strict momentum guidance.
 5. Write until the timer ends, then finish or add a short extension.
 6. Request refinement, assessment, or coaching only when you want AI assistance.
-7. Copy or export the writing and results you want to keep.
+7. Choose **Start a fresh session** for a blank next attempt, or **Continue this writing** to revise or extend the same piece.
+8. Copy or export the writing and results you want to keep.
 
-An unfinished draft stays in the current browser so it can be resumed on the same device. A completed session is stored encrypted and appears in your progress history. Only the first completion of a session uses one pilot credit. When both included sessions are complete, the workspace offers a request for two more pilot sessions; approval is not automatic.
+An unfinished draft stays in the current browser so it can be resumed on the same device. After completion, a fresh blank session is the default; continuing the completed writing requires an explicit choice. A completed session is stored encrypted and appears in your progress history. Only the first completion of a session uses one pilot credit. When both included sessions are complete, the workspace offers a request for two more pilot sessions; approval is not automatic.
 
 ## 3. Follow your status
 
@@ -55,7 +56,9 @@ The pinned header keeps these signals available as you move through a long setup
 - the number of pilot sessions remaining; and
 - **View progress**, which opens your completed-session history.
 
-![Write2Live writing score after a completed session](screenshots/writing-score.png)
+![An anonymized Write2Live comparison of original and refined writing](screenshots/refinement-demo.jpg)
+
+![An anonymized Write2Live writing score after a completed session](screenshots/assessment-demo.jpg)
 
 ![Write2Live coaching suggestions after a completed session](screenshots/writing-coach.png)
 
