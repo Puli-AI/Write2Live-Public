@@ -27,9 +27,12 @@ The invitation is email-bound, works once for registration, and currently provid
 
 ### I already registered
 
-Open [Returning writer sign-in](https://write2live.puli-consulting.com/signin). Enter your registered email address and select **Email my private sign-in link**. Open the newest link in the email; it works once and expires after 15 minutes.
+Open [Returning writer sign-in](https://write2live.puli-consulting.com/signin). Enter your registered email address and select **Email my private sign-in link**. Open the newest email and choose the browser before using its single-use address:
 
-You do not need the original invitation code again. Check the junk or spam folder if the sign-in message does not appear in your inbox.
+- To use your default browser, select **Open Write2Live**.
+- To use another browser, copy the complete sign-in address displayed in the email and paste it directly into that browser. Do not open it in the default browser first.
+
+The address works once and expires after 15 minutes. You do not need the original invitation code again. Check the junk or spam folder if the sign-in message does not appear in your inbox.
 
 ## 2. Complete a writing session
 

@@ -14,7 +14,7 @@ Write2Live is a focused-writing service from Puli Consulting. It helps writers f
 | --- | --- | --- |
 | A new visitor without a code | [Request an invitation](https://write2live.puli-consulting.com/request-access) | Tell us what you hope to write. Puli Consulting reviews the request before issuing access. |
 | A first-time writer with an invitation code | [Activate the invitation](https://write2live.puli-consulting.com/register) | Use the code and the same email address that received it. The pilot includes two completed writing sessions. |
-| A returning registered writer | [Request an email sign-in link](https://write2live.puli-consulting.com/signin) | No invitation code is needed. The private link works once and expires after 15 minutes. |
+| A returning registered writer | [Request an email sign-in link](https://write2live.puli-consulting.com/signin) | No invitation code is needed. The email provides both a button and the complete sign-in address. Choose the browser before opening it: click for the default browser, or copy the address into your preferred browser. It works once and expires after 15 minutes. |
 
 Submitting an access request does not immediately create an account and does not guarantee approval.
 
