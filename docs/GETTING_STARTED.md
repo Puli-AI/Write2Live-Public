@@ -1,6 +1,6 @@
 # Getting started
 
-Write2Live is currently available through an invitation-only private pilot.
+Write2Live 1.0 is available as a controlled-access service. Visitors request an invitation and Puli Consulting reviews each request before issuing access.
 
 ## 1. Get access
 
@@ -44,7 +44,7 @@ The address works once and expires after 15 minutes. You do not need the origina
 6. Request refinement, assessment, or coaching only when you want AI assistance.
 7. Copy or export the writing and results you want to keep.
 
-An unfinished draft stays in the current browser so it can be resumed on the same device. A completed session is stored encrypted and appears in your progress history. Only the first completion of a session uses one pilot credit.
+An unfinished draft stays in the current browser so it can be resumed on the same device. A completed session is stored encrypted and appears in your progress history. Only the first completion of a session uses one pilot credit. When both included sessions are complete, the workspace offers a request for two more pilot sessions; approval is not automatic.
 
 ## 3. Follow your status
 

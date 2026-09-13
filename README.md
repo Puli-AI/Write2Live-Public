@@ -6,7 +6,7 @@
 
 Write2Live is a focused-writing service from Puli Consulting. It helps writers find a direction, protect momentum with a flexible timer, and request practical AI refinement, assessment, and coaching after writing.
 
-![Write2Live private-pilot home page](docs/screenshots/pilot-home.jpg)
+![Write2Live controlled-access home page](docs/screenshots/pilot-home.jpg)
 
 ## Choose the right entry point
 
@@ -46,9 +46,11 @@ The interface keeps the current stage, AI readiness, remaining pilot sessions, a
 
 ![Write2Live writing-coach suggestions, exercises, and next focus](docs/screenshots/writing-coach.png)
 
-## Private-pilot status
+## Version 1.0 status
 
-Write2Live is currently an invitation-only pilot in the v0.9 release series, targeting v1.0 for formal launch. Each approved invitation currently provides two completed sessions. Features and pilot terms may change before the formal release.
+Write2Live 1.0 is a controlled-access service. Visitors can request an invitation, Puli Consulting reviews each request, and each approved invitation currently provides two completed writing sessions. Writers who complete that allowance may request two additional pilot sessions for administrator review.
+
+Controlled access is intentional while we validate learning value, assessment quality, support load, and operating cost. Version 1.0 is not unrestricted registration and is not yet a paid subscription. AI scores are coaching indicators, not standardized examination grades.
 
 ## Repository purpose
 
@@ -58,6 +60,8 @@ This public repository contains user documentation, privacy information, screens
 
 - [Getting started](docs/GETTING_STARTED.md)
 - [Pilot administration](docs/PILOT_ADMINISTRATION.md)
+- [Product roadmap](docs/ROADMAP.md)
+- [Competitive position](docs/COMPETITIVE-POSITION.md)
 - [Privacy](docs/PRIVACY.md)
 - [Security reporting](SECURITY.md)
 
