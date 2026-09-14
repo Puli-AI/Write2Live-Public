@@ -66,6 +66,7 @@ This public repository contains user documentation, privacy information, screens
 
 - [Getting started](docs/GETTING_STARTED.md)
 - [Pilot administration](docs/PILOT_ADMINISTRATION.md)
+- [Platform direction](docs/PLATFORM-DIRECTION.md)
 - [Product roadmap](docs/ROADMAP.md)
 - [Competitive position](docs/COMPETITIVE-POSITION.md)
 - [Privacy](docs/PRIVACY.md)
