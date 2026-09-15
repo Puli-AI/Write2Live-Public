@@ -58,12 +58,22 @@ Write2Live 1.0 is a controlled-access service. Visitors can request an invitatio
 
 Controlled access is intentional while we validate learning value, assessment quality, support load, and operating cost. Version 1.0 is not unrestricted registration and is not yet a paid subscription. AI scores are coaching indicators, not standardized examination grades.
 
+## The story behind Write2Live
+
+Write2Live began with a familiar writing problem: caring so much about quality that the first draft struggled to exist. These two personal articles trace the journey from that problem to a weekend prototype and then to the present service:
+
+- [Done Is Better Than Perfect—So Why Was I Still Stuck?](https://www.linkedin.com/posts/mkmak_writing-writingpractice-doneisbetterthanperfect-activity-7505078425297006592-OrkP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAA91J4BiT659s_NfU5Lpznd-mhZ6gyDr-c)
+- [The App I Built in a Weekend—and Brought Back to Life](https://www.linkedin.com/pulse/app-i-built-weekendand-brought-back-life-m-k-mak-uimec)
+
+See the illustrated [origin story](docs/ORIGIN-STORY.md) and the original public [Write-or-Die prototype](https://github.com/DrMakMoonKuen/Write-or-Die).
+
 ## Repository purpose
 
 This public repository contains user documentation, privacy information, screenshots, release-facing guidance, and support material. Production source code, service credentials, deployment configuration, and internal operating records remain in a separate private repository.
 
 ## Documentation
 
+- [Origin story](docs/ORIGIN-STORY.md)
 - [Getting started](docs/GETTING_STARTED.md)
 - [Pilot administration](docs/PILOT_ADMINISTRATION.md)
 - [Platform direction](docs/PLATFORM-DIRECTION.md)
